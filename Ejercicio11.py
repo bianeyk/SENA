@@ -10,4 +10,15 @@ cant3=int(input(f"Ingrese la cantidad del {prod3}: "))
 sub=((prec1*cant1)+(prec2*cant2)+(prec3*cant3))
 iva=sub*0.08
 total=sub+iva
-print(f"total a pagar : $ {total:.2f}")
+print(f"total a pagar : $ {total}")
+
+#nombre=input("ingrese el nombre: ")
+#convertir en mayuscula 
+#5print(nombre.upper())
+#5print(nombre.title())
+#para contar letras
+#print(f"la variable {nombre} tiene {len(nombre)} caracteres")
+#para raiz
+#2**2-4
+
+
